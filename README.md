@@ -1,4 +1,6 @@
 PhishSwift
+
+
 I got so tired of the manual phishing response checklist that I finally just built this tool to do it for me. Instead of spending an hour jumping between Entra, Exchange, and Defender for every single compromise, this thing automates the forensics and lets me clean it up in one go.
 
 What it does
