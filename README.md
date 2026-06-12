@@ -1,5 +1,5 @@
 PhishSwift
-
+PS! I got locked out of my hackathon account, so it may still say creative apps as its category. Whivh is also why I couldnt upload the video.
 
 I got tired of running the same manual phishing-response checklist every time an account got compromised — jumping between Entra, Exchange, and Defender for every single incident. So I built this to do it for me. You give it a user's email, it runs the whole forensic investigation, and it cleans up the account in one go.
 
